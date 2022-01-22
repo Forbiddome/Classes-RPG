@@ -1,0 +1,16 @@
+C:\Users\chris\ClassesRPG\bin\Debug\net5.0\ClassesRPG.exe
+C:\Users\chris\ClassesRPG\bin\Debug\net5.0\ClassesRPG.deps.json
+C:\Users\chris\ClassesRPG\bin\Debug\net5.0\ClassesRPG.runtimeconfig.json
+C:\Users\chris\ClassesRPG\bin\Debug\net5.0\ClassesRPG.runtimeconfig.dev.json
+C:\Users\chris\ClassesRPG\bin\Debug\net5.0\ClassesRPG.dll
+C:\Users\chris\ClassesRPG\bin\Debug\net5.0\ref\ClassesRPG.dll
+C:\Users\chris\ClassesRPG\bin\Debug\net5.0\ClassesRPG.pdb
+C:\Users\chris\ClassesRPG\obj\Debug\net5.0\ClassesRPG.csproj.AssemblyReference.cache
+C:\Users\chris\ClassesRPG\obj\Debug\net5.0\ClassesRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\ClassesRPG\obj\Debug\net5.0\ClassesRPG.AssemblyInfoInputs.cache
+C:\Users\chris\ClassesRPG\obj\Debug\net5.0\ClassesRPG.AssemblyInfo.cs
+C:\Users\chris\ClassesRPG\obj\Debug\net5.0\ClassesRPG.csproj.CoreCompileInputs.cache
+C:\Users\chris\ClassesRPG\obj\Debug\net5.0\ClassesRPG.dll
+C:\Users\chris\ClassesRPG\obj\Debug\net5.0\ref\ClassesRPG.dll
+C:\Users\chris\ClassesRPG\obj\Debug\net5.0\ClassesRPG.pdb
+C:\Users\chris\ClassesRPG\obj\Debug\net5.0\ClassesRPG.genruntimeconfig.cache
